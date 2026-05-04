@@ -12,3 +12,5 @@ These translations are my own personal translation preferences where only import
 Main things that are translated are ability/item/skill descriptions etc.
 
 Thanks to Togari whose translations I referenced in order to create my own version.
+
+Note: If the Chinese translations are getting corrupted, make sure you save the file as the correct encoding type.
